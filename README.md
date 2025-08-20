@@ -1,4 +1,4 @@
-# 🚗 Road Accident Analyst - Excel Dashboard Project
+# 🚗 Road Accident Analysis - Excel Dashboard Project
 
 This project provides a comprehensive analysis of **traffic accident data** using **Microsoft Excel**. It explores the primary causes of road accidents and presents findings through an interactive **Excel dashboard** built with **pivot tables and charts**.
 
